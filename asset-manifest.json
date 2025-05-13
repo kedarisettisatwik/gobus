@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/gobus/static/js/main.76a5df47.js",
+    "static/js/453.dae13f1b.chunk.js": "/gobus/static/js/453.dae13f1b.chunk.js",
+    "index.html": "/gobus/index.html",
+    "main.76a5df47.js.map": "/gobus/static/js/main.76a5df47.js.map",
+    "453.dae13f1b.chunk.js.map": "/gobus/static/js/453.dae13f1b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.76a5df47.js"
+  ]
+}
