@@ -1,7 +1,7 @@
 import React from "react";
 import { Route, Routes, BrowserRouter as Router } from "react-router-dom";
 import Login from "./consumer/Login";
-import ErrorPage from "./ErrorPage";
+import ErrorPage from "./ErrorPage"
 
 function App() {
   return (

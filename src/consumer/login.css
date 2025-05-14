@@ -1,0 +1,23 @@
+*{
+    padding:0;
+    box-sizing: border-box;
+    margin: 0;
+    overflow-x: hidden;
+}
+body{
+    width:100vw;
+    position: relative;
+}
+.flex{
+    display: flex;
+}
+.main{
+    width:100%;
+    position: relative;
+    justify-content: center;
+    align-items: center
+}
+.main img{
+    height:500px;
+    object-fit: cover;
+}

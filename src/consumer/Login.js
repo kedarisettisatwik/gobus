@@ -1,10 +1,11 @@
 import Traveling from "../stock/Traveling.png";
+import './login.css';
 
 function Login() {
   return (
-    <div>
-      <img src={Traveling} alt="travel" width='200px'></img>
-    </div>
+    <section className="main flex">
+      <img src={Traveling} alt="travel"></img>
+    </section>
   );
 }
 
