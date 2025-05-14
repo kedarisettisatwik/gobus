@@ -8,6 +8,7 @@ function App() {
     <>
       <Router>
         <Routes>
+          <Route path="/" element={<Login/>}></Route>
           <Route path="/consumer/login" element={<Login/>}></Route>
           <Route path="*" element={<ErrorPage/>}></Route>
         </Routes>
