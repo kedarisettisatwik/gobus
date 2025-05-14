@@ -3,7 +3,7 @@ import Traveling from "../stock/Traveling.png";
 function Login() {
   return (
     <div>
-      <img src={Traveling} alt="travel" width='50vw'></img>
+      <img src={Traveling} alt="travel" width='200px'></img>
     </div>
   );
 }

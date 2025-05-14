@@ -1,11 +1,9 @@
 import Error404 from "../src/stock/Error404.png";
 
 function errorPage() {
-  console.log("hello");
   return (
     <div>
-      <img src={Error404} alt="travel" width='50vw'></img>
-      hello
+      <img src={Error404} alt="travel" width='200px'></img>
     </div>
   );
 }

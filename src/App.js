@@ -8,8 +8,8 @@ function App() {
     <>
       <Router>
         <Routes>
-          <Route path="/" element={ErrorPage}></Route>
-          <Route path="/consumer/login" element={Login}></Route>
+          <Route path="*" element={<ErrorPage/>}></Route>
+          <Route path="/gobus/consumer/login" element={<Login/>}></Route>
         </Routes>
       </Router>
     </>
