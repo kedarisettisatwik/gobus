@@ -1,9 +1,18 @@
+import React from "react";
+import { Route, Routes, BrowserRouter as Router } from "react-router-dom";
+import Login from "./consumer/Login";
+import ErrorPage from "./ErrorPage";
 
 function App() {
   return (
-    <div className="App">
-      Go Bus
-    </div>
+    <>
+      <Router>
+        <Routes>
+          <Route path="/" element={ErrorPage}></Route>
+          <Route path="/consumer/login" element={Login}></Route>
+        </Routes>
+      </Router>
+    </>
   );
 }
 
