@@ -9,6 +9,7 @@ function App() {
       <Router>
         <Routes>
           <Route path="*" element={<ErrorPage/>}></Route>
+          <Route path="/gobus" element={<Login/>}></Route>
           <Route path="/gobus/consumer/login" element={<Login/>}></Route>
         </Routes>
       </Router>
