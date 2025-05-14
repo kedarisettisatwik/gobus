@@ -1,14 +1,17 @@
 {
   "files": {
-    "main.js": "/gobus/static/js/main.e62e9e81.js",
-    "static/js/453.dae13f1b.chunk.js": "/gobus/static/js/453.dae13f1b.chunk.js",
-    "static/media/Error404.png": "/gobus/static/media/Error404.5b67da198c26501e0862.png",
-    "static/media/Traveling.png": "/gobus/static/media/Traveling.2f7fc2f4c2da0ae078b8.png",
-    "index.html": "/gobus/index.html",
-    "main.e62e9e81.js.map": "/gobus/static/js/main.e62e9e81.js.map",
-    "453.dae13f1b.chunk.js.map": "/gobus/static/js/453.dae13f1b.chunk.js.map"
+    "main.css": "/gobus/consumer/login/static/css/main.cfd6b8f1.css",
+    "main.js": "/gobus/consumer/login/static/js/main.72ae97db.js",
+    "static/js/453.dae13f1b.chunk.js": "/gobus/consumer/login/static/js/453.dae13f1b.chunk.js",
+    "static/media/Error404.png": "/gobus/consumer/login/static/media/Error404.5b67da198c26501e0862.png",
+    "static/media/Traveling.png": "/gobus/consumer/login/static/media/Traveling.f33c8af39cda600bf078.png",
+    "index.html": "/gobus/consumer/login/index.html",
+    "main.cfd6b8f1.css.map": "/gobus/consumer/login/static/css/main.cfd6b8f1.css.map",
+    "main.72ae97db.js.map": "/gobus/consumer/login/static/js/main.72ae97db.js.map",
+    "453.dae13f1b.chunk.js.map": "/gobus/consumer/login/static/js/453.dae13f1b.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.e62e9e81.js"
+    "static/css/main.cfd6b8f1.css",
+    "static/js/main.72ae97db.js"
   ]
 }
