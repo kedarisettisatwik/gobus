@@ -12,6 +12,7 @@ function App() {
           <Route path="/gobus/consumer/login" element={<CustomerLogin/>}></Route>
           <Route path="/gobus/driver/login" element={<DriverLogin/>}></Route>
           <Route path="/gobus" element={<CustomerLogin/>}></Route>
+          <Route path="/" element={<CustomerLogin/>}></Route>
           <Route path="*" element={<ErrorPage/>}></Route>
         </Routes>
       </Router>
