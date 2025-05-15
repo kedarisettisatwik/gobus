@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/gobus/static/css/main.78afd0fa.css",
-    "main.js": "/gobus/static/js/main.ca955f4d.js",
+    "main.js": "/gobus/static/js/main.fc2ac8a9.js",
     "static/js/453.dae13f1b.chunk.js": "/gobus/static/js/453.dae13f1b.chunk.js",
     "static/media/bus2.jpg": "/gobus/static/media/bus2.a8d52d9f5fce57185ea6.jpg",
     "static/media/Error404.png": "/gobus/static/media/Error404.5b67da198c26501e0862.png",
     "static/media/Traveling.png": "/gobus/static/media/Traveling.f33c8af39cda600bf078.png",
     "index.html": "/gobus/index.html",
     "main.78afd0fa.css.map": "/gobus/static/css/main.78afd0fa.css.map",
-    "main.ca955f4d.js.map": "/gobus/static/js/main.ca955f4d.js.map",
+    "main.fc2ac8a9.js.map": "/gobus/static/js/main.fc2ac8a9.js.map",
     "453.dae13f1b.chunk.js.map": "/gobus/static/js/453.dae13f1b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.78afd0fa.css",
-    "static/js/main.ca955f4d.js"
+    "static/js/main.fc2ac8a9.js"
   ]
 }
