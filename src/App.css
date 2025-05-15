@@ -1,0 +1,18 @@
+*{
+    padding:0;
+    box-sizing: border-box;
+    margin: 0;
+    overflow-x: hidden;
+    font-family: "Poppins", sans-serif;
+}
+:root{
+    --orange:#ff725e;
+    --green:#92e3a9;
+}
+body{
+    width:100vw;
+    position: relative;
+}
+.flex{
+    display: flex;
+}

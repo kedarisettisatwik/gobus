@@ -1,17 +1,3 @@
-*{
-    padding:0;
-    box-sizing: border-box;
-    margin: 0;
-    overflow-x: hidden;
-    font-family: "Poppins", sans-serif;
-}
-body{
-    width:100vw;
-    position: relative;
-}
-.flex{
-    display: flex;
-}
 .ConsumerLoginMain{
     width:100%;
     height:100vh;
@@ -54,11 +40,9 @@ body{
 }
 .ConsumerLoginMain button{
     width:100%;
-    max-width:250px;
     margin: 10px auto;
     cursor: pointer;
-    background-color: #c08312;
-    color: white;
+    background-color: var(--green);
     outline: none;
     border: none;
     border-radius: 5px;

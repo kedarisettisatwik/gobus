@@ -1,7 +1,10 @@
 import Traveling from "../stock/Traveling.png";
 import './login.css';
+import { useState } from 'react';
 
 function Login() {
+  const [phNo,setPhNo] = useState("");
+
   return (
     <section className="ConsumerLoginMain flex">
       <div className="img">
@@ -10,7 +13,7 @@ function Login() {
       <div>
         <p>Start your journey with <br></br> <i style={{color:"green",fontWeight:"bold"}}>G</i><i style={{color:"orange",fontWeight:"bold"}}>O</i> Bus</p>
         <span>Enter your phone number <i>*</i></span>
-        <input type="tel" placeholder="78695.." pattern="[0-9]*" inputMode="numeric"></input>
+        <input type="tel" placeholder="78695.." pattern="[0-9]*" inputMode="numeric" value={phNo} onChange={(e) => setPhNo(e.target.value)}></input>
         <button>Get Started</button>
       </div>
     </section>
