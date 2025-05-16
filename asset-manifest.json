@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/gobus/static/css/main.9fa994cc.css",
-    "main.js": "/gobus/static/js/main.1f53f0f9.js",
+    "main.css": "/gobus/static/css/main.6734938a.css",
+    "main.js": "/gobus/static/js/main.8e76b0cf.js",
     "static/js/453.dae13f1b.chunk.js": "/gobus/static/js/453.dae13f1b.chunk.js",
     "static/media/bus2.jpg": "/gobus/static/media/bus2.a8d52d9f5fce57185ea6.jpg",
     "static/media/partnership.png": "/gobus/static/media/partnership.db8115be195a4511865f.png",
     "static/media/Traveling.png": "/gobus/static/media/Traveling.f33c8af39cda600bf078.png",
     "index.html": "/gobus/index.html",
-    "main.9fa994cc.css.map": "/gobus/static/css/main.9fa994cc.css.map",
-    "main.1f53f0f9.js.map": "/gobus/static/js/main.1f53f0f9.js.map",
+    "main.6734938a.css.map": "/gobus/static/css/main.6734938a.css.map",
+    "main.8e76b0cf.js.map": "/gobus/static/js/main.8e76b0cf.js.map",
     "453.dae13f1b.chunk.js.map": "/gobus/static/js/453.dae13f1b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9fa994cc.css",
-    "static/js/main.1f53f0f9.js"
+    "static/css/main.6734938a.css",
+    "static/js/main.8e76b0cf.js"
   ]
 }
