@@ -12,7 +12,7 @@ function Login() {
         <img src={bus2} alt="Drive"></img>
       </div>
       <div>
-        <p>Buckle up and Start a Safe Journey! <br></br><i style={{color:"green",fontWeight:"bold"}}>G</i><i style={{color:"orange",fontWeight:"bold"}}>O</i> Bus</p>
+        <p>Buckle up and Start a Safe Journey! <br></br><i style={{color:"green",fontWeight:"bold"}}>G</i><i style={{color:"#ff725e",fontWeight:"bold"}}>O</i> Bus</p>
         <span>Enter your phone number <i>*</i></span>
         <input type="tel" placeholder="78695.." pattern="[0-9]*" inputMode="numeric" value={phNo} onChange={(e) => setPhNo(e.target.value)}></input>
         <button>Get Started</button>

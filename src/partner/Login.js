@@ -11,7 +11,7 @@ function Login() {
         <img src={partnership} alt="Drive"></img>
       </div>
       <div>
-        <p>Partner with <i style={{color:"green",fontWeight:"bold"}}>G</i><i style={{color:"orange",fontWeight:"bold"}}>O</i> Bus to grow your bus business</p>
+        <p>Partner with <i style={{color:"green",fontWeight:"bold"}}>G</i><i style={{color:"#ff725e",fontWeight:"bold"}}>O</i> Bus to grow your bus business</p>
         <span>Enter your phone number <i>*</i></span>
         <input type="tel" placeholder="78695.." pattern="\d{10}" maxLength='10' inputMode="numeric" value={phNo} onChange={(e) => setPhNo(e.target.value)}></input>
         <button>Get Started</button>
